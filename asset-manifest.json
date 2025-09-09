@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Moviesearch/static/css/main.40238d69.css",
+    "main.js": "/Moviesearch/static/js/main.70b47f01.js",
+    "static/js/453.095fd317.chunk.js": "/Moviesearch/static/js/453.095fd317.chunk.js",
+    "static/media/popcorn.jpg": "/Moviesearch/static/media/popcorn.a7c1d7c55365ea615bab.jpg",
+    "index.html": "/Moviesearch/index.html",
+    "main.40238d69.css.map": "/Moviesearch/static/css/main.40238d69.css.map",
+    "main.70b47f01.js.map": "/Moviesearch/static/js/main.70b47f01.js.map",
+    "453.095fd317.chunk.js.map": "/Moviesearch/static/js/453.095fd317.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40238d69.css",
+    "static/js/main.70b47f01.js"
+  ]
+}
